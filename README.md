@@ -1,23 +1,22 @@
 # README.md
 
----
-title: 'README - GetCleanData: Samsung Galaxy S Human Activity Recognition'
-author: "Maurice E. Beckles"
-date: "May 8, 2016"
----
+#####Title: 'README - GetCleanData: Samsung Galaxy S Human Activity Recognition'
+#####Author: "Maurice E. Beckles"
+#####Date: "May 8, 2016"
+
 
 ## run_analysis.R
-This is an R script which reads data from the UCI HAR dataset available from [here!](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) with descriptive information located [here!](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+This is an R script which reads data from the UCI HAR dataset available from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) with descriptive information located [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ### Required data files
 Within the uncompressed data files the following are processed by this script:
-        - train/X_train.txt
-        - train/y_train.txt
-        - train/subject_train.txt
-        - test/X_test.txt
-        - test/y_test.txt
-        - test/subject_test.txt
-        - features.txt
+- train/X_train.txt
+- train/y_train.txt
+- train/subject_train.txt
+- test/X_test.txt
+- test/y_test.txt
+- test/subject_test.txt
+- features.txt
 > Additional data files provide additiona meta information regarding the overall shape and features of the dataset.
 
 ### Processing
