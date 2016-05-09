@@ -1,8 +1,8 @@
 # README.md
 
-#####Title: 'README - GetCleanData: Samsung Galaxy S Human Activity Recognition'
-#####Author: "Maurice E. Beckles"
-#####Date: "May 8, 2016"
+#####Title: README - GetCleanData: Samsung Galaxy S Human Activity Recognition
+#####Author: Maurice E. Beckles
+#####Date: May 8, 2016
 
 
 ## run_analysis.R

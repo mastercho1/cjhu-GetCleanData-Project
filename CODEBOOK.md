@@ -1,16 +1,14 @@
 # CodeBook.md
 
----
-title: 'CODEBOOK - GetCleanData: Samsung Galaxy S Human Activity Recognition'
-author: "Maurice E. Beckles"
-date: "May 8, 2016"
----
+#####Title: CODEBOOK - GetCleanData: Samsung Galaxy S Human Activity Recognition
+#####Author: Maurice E. Beckles
+#####Date: May 8, 2016
 
 ## iTidy.txt
-This codebook describes the variables contained in the iTidy.txt file which is built using the **run_analysis.R** file and the **UCI HAR** [Dataset!](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). 
+This codebook describes the variables contained in the iTidy.txt file which is built using the **run_analysis.R** file and the **UCI HAR** [Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). 
 
 ### Variables
-* All variables with the exception of "subjects" and "activity" are calculated sample means  
+*All variables with the exception of "subjects" and "activity" are calculated sample means*  
  01 subjects                         : Factor w/ 30 levels "1","2","3","4",..: 1 1 1 1 1 1 2 2 2 2 ...
  02 activity                         : Factor w/ 6 levels "Walking","Walking Upstairs",..: 1 2 3 4 5 6 1 ...
  03 tBodyAccmeanX                    : num  0.277 0.255 0.289 0.261 0.279 ...
